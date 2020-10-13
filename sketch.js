@@ -77,7 +77,7 @@ jumpSound.play();
   //clouds
   clouds()
   obstacles()
-
+//a
   if(obstacleGroup.isTouching(trex)){
     gameState =  "end";
     dieSound.play();
